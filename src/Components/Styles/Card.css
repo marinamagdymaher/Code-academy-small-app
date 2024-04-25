@@ -1,0 +1,11 @@
+.elements-container {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  gap: 10px;
+}
+
+.elements {
+  background-color: aqua;
+  padding: 10px;
+}
